@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Imported module"),console.log("I imported ${num} from another module!")})();
