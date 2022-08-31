@@ -6,7 +6,7 @@ export default class Search{
         this.query=query;
     }
 
-    async getResult(query){
+    async getResults(query){
     
     
         try{
